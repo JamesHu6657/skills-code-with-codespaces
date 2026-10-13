@@ -1,0 +1,4 @@
+{
+  "name": "Code with Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
+}
